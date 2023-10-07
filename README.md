@@ -1,2 +1,2 @@
 # CDTI_project1
-This code is a 2 dc motors control with 4 flex sensors using ESP32 and build in wifi connection  
+This code controls 2 DC motors with 4 flex sensors, using an ESP32 and built-in Wi-Fi connection. 
